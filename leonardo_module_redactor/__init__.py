@@ -21,6 +21,10 @@ class Default(object):
         'redactor/plugins/fontcolor.js'
     ]
 
+    css_files = [
+        'redactor/css/redactor.css'
+    ]
+
 
 class RedactorConfig(AppConfig, Default):
     name = 'leonardo_module_redactor'
