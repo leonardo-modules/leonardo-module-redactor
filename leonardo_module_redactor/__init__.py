@@ -1,7 +1,7 @@
 
 from django.apps import AppConfig
 
-default_app_config = 'leonardo_module_redcator.RedactorConfig'
+default_app_config = 'leonardo_module_redactor.RedactorConfig'
 
 
 class Default(object):
