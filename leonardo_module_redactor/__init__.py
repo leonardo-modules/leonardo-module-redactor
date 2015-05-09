@@ -8,7 +8,7 @@ class Default(object):
 
     apps = [
         'redactor',
-        'leonardo_module_redcator',
+        'leonardo_module_redactor',
     ]
 
     js_files = [
