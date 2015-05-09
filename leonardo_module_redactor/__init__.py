@@ -23,7 +23,7 @@ class Default(object):
 
 
 class RedactorConfig(AppConfig, Default):
-    name = 'leonardo_module_redcator'
+    name = 'leonardo_module_redactor'
     verbose_name = ("Leonardo Redactor")
 
 default = Default()
