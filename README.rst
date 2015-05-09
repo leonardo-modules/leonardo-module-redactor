@@ -25,7 +25,7 @@ Add ``leonardo_module_sentry`` to APPS list, in the ``local_settings.py``::
 
     APPS = [
         ...
-        'redactor'
+        'leonardo_module_redactor'
         ...
     ]
 
